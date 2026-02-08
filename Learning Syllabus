@@ -1,0 +1,7 @@
+/////// Main Topics
+
+// Var Let Or Const
+
+// Simple Var Hamary Pass Re Declear Bhi Ho Sakta Hey And Reassign Bhi  Var Global Scope Hota Hey Lekin Jab HUm Isy Kisi Function Kay Under Likhty Hen To Vo Functional Scope HO Jata Hey
+// Aysy Hi Let May Hum Reassign To Kar Sakty Hen But Redeclear Nhi Kar Sakty Let Block Scope Hey ....
+// Ab Aya Hamara Const To Simple Hum Is May JO Values Pass Karty Hen Vo Constant Ho Jati Hey Na Vo Reassign Ho sakti Hen Na Vo Redeclear Ho Gi Const Bhi Block Scope Hey ....
